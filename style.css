@@ -1,0 +1,23 @@
+.gridContainer{
+  background: white;
+  display: inline-block;
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  height: 400px;
+  width: 400px;
+
+}
+
+.gridCol{
+  height: 20px;
+  
+}
+
+.row{
+  background: gray;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+
+}
